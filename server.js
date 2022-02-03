@@ -1,0 +1,1 @@
+console.log("Server is Up and Running ^_^")
